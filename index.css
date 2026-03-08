@@ -1,0 +1,15 @@
+h1 {
+    background-color: yellow;
+    text-decoration: dashed;
+}   
+p{
+    font-size: 20px;
+    color: rgb(34, 0, 128);
+}
+body {
+    background-color: lightblue;
+} 
+ 
+img {
+    width:200px
+}

@@ -1,0 +1,16 @@
+:root {
+  --primary-color: #007bff;
+  --secondary-color: #6c757d;
+  --success-color: #28a74f;
+  --danger-color: #a99dbf;
+  --warning-color: #ff0707;
+  --info-color: #17a2b8;
+}
+* {
+  box-sizing: border-box;
+}html, body {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+}
